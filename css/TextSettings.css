@@ -1,0 +1,26 @@
+#Text1
+{
+    text-align: center;
+    text-decoration: underline;
+
+    color: rgb(255, 255, 255);
+}
+
+h1.text {text-align: center;}
+
+
+div.ex
+{
+    width: 220px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0px;
+}
+
+div.mybkkd
+{
+    background:url("./1.png");
+    background-size: cover;
+}
+
+
